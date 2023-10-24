@@ -137,3 +137,16 @@ width: 50.7%;
     margin-bottom: 10%;
     text-transform: uppercase;
     border-bottom: 4px solid #2978ff00;}
+    body{
+        background-image: url(./foto/fmusik.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        height: 100%;
+    }
+    .title{
+        text-align: center;
+        font-size: 2.5em;
+        color: #fdfbfb;
+    }
